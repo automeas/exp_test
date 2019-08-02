@@ -8,3 +8,6 @@ exp.cpp - main code
 5
 10
 11
+6
+8
+9
