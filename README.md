@@ -22,4 +22,4 @@ exp.cpp - main code
 
 
 looploop
-looploop1loop2loop0
+looploop1loop2loop0loop-1
